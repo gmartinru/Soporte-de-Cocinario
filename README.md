@@ -1,5 +1,16 @@
-# Cocinario - Soporte Técnico
+# Soporte de Cocinario
 
-Si tienes alguna pregunta, problema o sugerencia relacionada con la aplicación **Cocinario**, por favor ponte en contacto con nosotros a través del correo electrónico:
+Cocinario es una aplicación iOS para explorar recetas, guardar favoritas, añadir notas personales y gestionar una lista de la compra.
 
-📩 **gmartinru@upsa.es**
+## Soporte
+
+Para consultas o incidencias relacionadas con la aplicación, puedes contactar en:
+
+gmartinru@gmail.com
+
+## Privacidad
+
+Cocinario no recopila datos personales del usuario.  
+Las recetas favoritas, notas personales, lista de la compra y ajustes se almacenan localmente en el dispositivo.
+
+La app utiliza TheMealDB para consultar recetas públicas.
